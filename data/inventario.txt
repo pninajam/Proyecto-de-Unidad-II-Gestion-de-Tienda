@@ -1,0 +1,9 @@
+Arroz|50|4.5|10
+Azucar|30|3.8|5
+Aceite|20|8|5
+Harina |50|3.99|2
+Papa|100|1.99|10
+Camote|50|2.49|5
+Chu¤o|25|6.99|4
+Zanahoria|25|3.99|3
+Cebolla|25|4.99|10
